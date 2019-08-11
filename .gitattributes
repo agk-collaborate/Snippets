@@ -1,0 +1,6 @@
+# Basic
+*.agc		binary
+
+# Shaders
+*.ps		binary
+*.vs		binary
